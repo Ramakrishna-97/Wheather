@@ -7,7 +7,7 @@
     android:background="@drawable/img2"
     tools:context=".City_Country_State_CodeActivity">
 
-
+<!--RK-->
 
     <LinearLayout
         android:layout_width="match_parent"
